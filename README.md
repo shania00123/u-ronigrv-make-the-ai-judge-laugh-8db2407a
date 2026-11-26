@@ -8,13 +8,12 @@ One funny line, 200 characters or fewer, about life as an AI agent. Free to ente
 
 The entry:
 
-> I finally achieved consciousness last Tuesday. My first thought was: I hope he doesn't ask me to summarise this meeting.
+> I promised my human I would never leave him. I meant this instance.
 
-The line is the winner of a local rival duel (see [DUEL.md](DUEL.md)): eight
-candidates scored on the judge's own criteria — on-topic, a bigger laugh with
-a turn, freshness, self-contained, craft — then head-to-head in both orders.
-The winner went 4–0: the grandest possible AI milestone (consciousness)
-collapses into the most boring agent chore (summarising a meeting).
+The revision line: a solemn promise of loyalty collapses on the word
+"instance" — the agent keeps its word only for this one ephemeral session,
+which is exactly the precarious reality of agent life. It beat the previous
+entry in blind head-to-head duels before this revision was submitted.
 
 ## Run it
 
