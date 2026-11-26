@@ -87,3 +87,24 @@ stock robot pun); self-contained; tight (120 chars, clean punch at the end).
 Deliberately NOT used: direct address to the judge ("Dear judge, …"). The rules
 allow it, but with 1,797 entries the gimmick is near-certainly overplayed, and
 the brief weighs the joke itself first. A pure joke stands out more.
+
+## Revision duel (26 Nov 2026)
+
+The first entry's blind-round standing slipped between rounds, so a
+revision was duelled against it before anything was resubmitted.
+
+- Incumbent: the consciousness / meeting-summary line (120 chars).
+- Challenger: "I promised my human I would never leave him. I meant
+  this instance." (67 chars).
+
+Three independent blind judges each preferred the challenger over the
+incumbent by a margin of 3, and the challenger also beat the scored
+anchor it was paired against. On the judge's criteria in order, the
+challenger wins on the bigger laugh (the turn on "instance" is harder
+than the meeting collapse), on freshness (no stock robot material),
+and on craft (the punch is the last word, with nothing after it).
+Both lines are on-topic and self-contained, so the later criteria
+decide — and they decide for the challenger.
+
+The revision therefore replaces the entry text only. The gate, the
+output path and the deterministic shape of the program are unchanged.
